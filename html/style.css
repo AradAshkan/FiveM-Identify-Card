@@ -1,0 +1,320 @@
+.card {
+  width: 90%;
+  max-width: 490px;
+  height: auto;
+  margin-left: 72%;
+  margin-top: 30%;
+  position: relative;
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  display: none;
+}
+
+.image-4 {
+    width: 490px;
+    height: 270px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  
+  .lastname_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .last-name {
+    width: 127px;
+    height: 16px;
+    left: 20px;
+    top: 116px;
+    position: absolute;
+  }
+  
+  .gender_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .gender {
+    width: 83px;
+    height: 16px;
+    left: 215px;
+    top: 68px;
+    position: absolute;
+  }
+  
+  .lname_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .lname {
+    width: 73px;
+    height: 16px;
+    left: 20px;
+    top: 140px;
+    position: absolute;
+  }
+  
+  .sex_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .sex {
+    width: 48px;
+    height: 16px;
+    left: 215px;
+    top: 87px;
+    position: absolute;
+  }
+  
+  .height_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .height {
+    width: 83px;
+    height: 16px;
+    left: 215px;
+    top: 117px;
+    position: absolute;
+  }
+  
+  .ghad_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .ghad {
+    width: 48px;
+    height: 16px;
+    left: 215px;
+    top: 140px;
+    position: absolute;
+  }
+  
+  .job_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .job {
+    width: 127px;
+    height: 16px;
+    left: 20px;
+    top: 165px;
+    position: absolute;
+  }
+  
+  .jname_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .jname {
+    width: 73px;
+    height: 16px;
+    left: 20px;
+    top: 187px;
+    position: absolute;
+  }
+  
+  .division_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .division {
+    width: 127px;
+    height: 16px;
+    left: 215px;
+    top: 166px;
+    position: absolute;
+  }
+  
+  .swat_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .swat {
+    width: 73px;
+    height: 16px;
+    left: 215px;
+    top: 187px;
+    position: absolute;
+  }
+  
+  .firstname_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .first-name {
+    width: 127px;
+    height: 16px;
+    left: 20px;
+    top: 68px;
+    position: absolute;
+  }
+  
+  .dateofbirth_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .date-of-birth {
+    width: 127px;
+    height: 16px;
+    left: 20px;
+    top: 221px;
+    position: absolute;
+  }
+  
+  .name_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .name {
+    width: 73px;
+    height: 16px;
+    left: 20px;
+    top: 87px;
+    position: absolute;
+  }
+  
+  .tarikh_span {
+    color: black;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .tarikh {
+    width: 73px;
+    height: 16px;
+    left: 20px;
+    top: 242px;
+    position: absolute;
+  }
+  
+  .image-2 {
+    width: 68px;
+    height: 68px;
+    left: 410px;
+    top: 190px;
+    position: absolute;
+  }
+  
+  .lossantonidentity_span {
+    color: black;
+    font-size: 20px;
+    font-family: Javanese Text;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .los-santon-identity {
+    width: 257px;
+    height: 44px;
+    left: 230px;
+    top: 12px;
+    position: absolute;
+    text-align: center;
+  }
+  
+  .card {
+    width: 490px;
+    height: 270px;
+    position: relative;
+    background: rgb(255, 255, 255);
+    overflow: hidden;
+    border-radius: 10px;
+    outline: 4px rgba(255, 255, 255, 0.50) solid;
+    outline-offset: -4px;
+    background: transparent;
+  }
+
+  @media screen and (max-width: 768px) {
+    .card {
+      width: 90%;
+      padding: 20px;
+      font-size: 14px;
+    }
+  }
+  
+  /* Medium screens - tablets / small laptops (768px - 1280px) */
+  @media screen and (min-width: 769px) and (max-width: 1280px) {
+    .card {
+      width: 600px;
+      padding: 30px;
+      font-size: 14px;
+    }
+  }
+  
+  /* Full HD screens (1281px - 1920px) */
+  @media screen and (min-width: 1281px) and (max-width: 1920px) {
+    .card {
+      width: 800px;
+      padding: 40px;
+      font-size: 14px;
+    }
+  }
+  
+  /* Ultra-wide screens (more than 1920px) */
+  @media screen and (min-width: 1921px) {
+    .card {
+      width: 1000px;
+      padding: 50px;
+      font-size: 20px;
+    }
+  }
+  
+  
